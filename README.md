@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 A coder who loves to participate in various programming contests.
-- 🌱 I’m currently learning Web and Machine Learning
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Competitive programming
 - :computer: Programming in C++, Python, and Java.
 <!-- - 📫 How to reach me: ... -->
