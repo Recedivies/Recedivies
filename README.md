@@ -35,9 +35,16 @@
     <img src="https://img.shields.io/badge/Docker-008FCC?style=flat&logo=docker&logoColor=white" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white" alt=""/>&nbsp;
   </div>
+  
+ #### 🤔 Things I'd like to try in the future:
+
+<div>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt=""/>&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat&logo=next.js&logoColor=white" alt=""/>&nbsp;
+</div>
 
 ---
-
+ 
 ### ⚙️ &nbsp;GitHub Analytics
 
   <p>
