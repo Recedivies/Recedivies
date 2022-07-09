@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="" />&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="" />&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="" />&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="" />&nbsp;
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/Docker-008FCC?style=flat&logo=docker&logoColor=white" alt=""/>&nbsp;
@@ -24,6 +25,7 @@
 #### Things I am currently learning:
 
   <div>
+    <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="" />&nbsp;
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="" />&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="" />&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="" />&nbsp;
@@ -44,8 +46,8 @@
 
 #### 🧐 Things I'd like to use more:
    <div>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt=""/>&nbsp;
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt=""/>&nbsp;
     <img src="https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white" alt=""/>&nbsp;
   </div>
 
