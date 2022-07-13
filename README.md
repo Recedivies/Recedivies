@@ -61,4 +61,12 @@
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Recedivies&layout=compact&langs_count=8&theme=chartreuse-dark"/>
   </a>
   </p>
+  
+  ### Projects I am currently working on:
+
+  <div>
+    <a href="https://github.com/Recedivies/Coffengo">Coffengo</a><br>
+    <a href="https://github.com/Recedivies/E-Store-Coffengo">E-Store-Coffengo</a><br>
+  </div>
+  
 </div>
