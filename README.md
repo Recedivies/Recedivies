@@ -65,8 +65,8 @@
   ### Projects I am currently working on:
 
   <div>
-    <a href="https://github.com/Recedivies/Coffengo">Coffengo</a><br>
-    <a href="https://github.com/Recedivies/E-Store-Coffengo">E-Store-Coffengo</a><br>
+    <a href="https://github.com/Recedivies/Coffeengo">Coffeengo</a><br>
+    <a href="https://github.com/Recedivies/E-Store-Coffeengo">E-Store-Coffeengo</a><br>
   </div>
   
 </div>
