@@ -5,7 +5,7 @@
   <h2> Blog 📝</h2>
   <p> Find me at <a href="https://ahmadhi.medium.com">Medium</a>
   <h2> Contact me ✉ </h2>
-  <a href="https://www.linkedin.com/in/ahmadhi/">Linkedin</a>https://github-readme-streak-stats.herokuapp.com/?user=Recedivies&theme=chartreuse-dark
+  <a href="https://www.linkedin.com/in/ahmadhi/">LinkedIn</a>
   
   <a href="mailto:ahmadhiprananta@gmail.com">Email</a>
 </div>
